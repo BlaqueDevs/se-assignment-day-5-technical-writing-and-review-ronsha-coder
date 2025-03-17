@@ -85,7 +85,7 @@ Visuals: Diagrams or graphs can simplify data-heavy or process-based concepts.
   4.**Clarifying Relationships and Structures**
 Examples: When explaining systems or relationships between different parts, examples can demonstrate how the components work together.
 Visuals: Diagrams and charts excel in showing relationships between components in a system.
-  5.Improving Accessibility for Different Learning Styles
+  5.**Improving Accessibility for Different Learning Styles**
 Examples: People learn in different ways. Some prefer seeing information applied in real-world situations (examples), while others benefit more from abstract descriptions
 Visuals: Visuals support those who are visual learners. Some people understand information more quickly when they can see it depicted in a chart, image, or diagram, rather than having to interpret text descriptions.
 
