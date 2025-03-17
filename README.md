@@ -16,7 +16,7 @@
 **
 ## 2. What are some strategies to tailor your content to different audience types?
 <<Here are some strategies to adjust your writing based on your audience:>>
-  1. Know Your Audience’s Expertise Level i.e For Beginners/Non-Experts,For Experts
+  1. Know Your Audience’s Expertise Level i.e For Beginners/Non-Experts,For Experts 
   2. Adjust Content Depth
   3. Consider the Goal of the Content
   4. Content Structure and Format
